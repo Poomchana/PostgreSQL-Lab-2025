@@ -1,4 +1,3 @@
-<img width="1919" height="1131" alt="image" src="https://github.com/user-attachments/assets/20cae08d-aef1-4918-8278-332e201ceefe" /># Lab 01: PostgreSQL Docker Setup and Basic Operations
 
 ## วัตถุประสงค์
 1. ติดตั้งและใช้งาน PostgreSQL ผ่าน Docker
